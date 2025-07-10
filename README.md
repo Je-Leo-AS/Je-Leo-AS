@@ -31,7 +31,7 @@
 
 <p align="left">
 I'm Leonardo Santos from Curitiba, PR, Brazil.<br><br>
-- 🔭 I’m working as a Software and Firmware Developer at IoTug Tecnologia, focusing on precision agriculture solutions using machine learning and embedded systems.<br>
+- 🔭 I’m working as a Software and Firmware Developer at IoTag Tecnologia, focusing on precision agriculture solutions using machine learning and embedded systems.<br>
 - 📚 I'm currently pursuing a Master's degree in Electrical Engineering at Universidade Federal do Paraná, researching efficient FPGA and ASIC architectures for wireless communication systems.<br>
 - ⚡ In my free time, I enjoy exploring new technologies, contributing to open-source projects, and working on IoT and 3D modeling projects.
 </p>
@@ -60,6 +60,9 @@ I'm Leonardo Santos from Curitiba, PR, Brazil.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://mintlify.s3-us-west-1.amazonaws.com/crewai/crew_only_logo.png" height="40" alt="crewai logo">
+  <img width="12" />
 </div>
 
 ###
