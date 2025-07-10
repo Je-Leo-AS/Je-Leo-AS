@@ -61,7 +61,7 @@ I'm Leonardo Santos from Curitiba, PR, Brazil.<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai-color.svg" style="height: 50px; width: auto;" alt="crewai logo" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai-color.svg" style="height: 40px; width: auto;" alt="crewai logo" />
 </div>
 
 ###
