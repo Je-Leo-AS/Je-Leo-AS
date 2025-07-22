@@ -8,8 +8,8 @@
   <a href="https://linkedin.com/in/leonardo-20-as">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/Je-Leo-AS">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  <a href="https://lattes.cnpq.br/2911002601216607">
+    <img src="https://img.shields.io/static/v1?label=Curr%C3%ADculo%20Lattes&message=Acessar&color=blue" height="25" alt="github logo" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 I'm Leonardo Santos from Curitiba, PR, Brazil.<br><br>
 - 🔭 I’m working as a Software and Firmware Developer at IoTag Tecnologia, focusing on precision agriculture solutions using machine learning and embedded systems.<br>
 - 📚 I'm currently pursuing a Master's degree in Electrical Engineering at Universidade Federal do Paraná, researching efficient FPGA and ASIC architectures for wireless communication systems.<br>
-- ⚡ In my free time, I enjoy exploring new technologies, contributing to open-source projects, and working on IoT and 3D modeling projects.
+- ⚡ In my free time, I enjoy exploring new technologies, and working on IoT and 3D modeling projects.
 </p>
 
 ###
