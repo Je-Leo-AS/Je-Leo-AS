@@ -33,7 +33,7 @@
 I'm Leonardo Santos from Curitiba, PR, Brazil.<br><br>
 - 🔭 I’m working as a Software and Firmware Developer at IoTag Tecnologia, focusing on precision agriculture solutions using machine learning and embedded systems.<br>
 - 📚 I'm currently pursuing a Master's degree in Electrical Engineering at Universidade Federal do Paraná, researching efficient FPGA and ASIC architectures for wireless communication systems.<br>
-- ⚡ In my free time, I enjoy exploring new technologies, and working on IoT and 3D modeling projects.
+- ⚡ In my free time, I enjoy exploring new technologies and working on IoT and 3D modeling projects.
 </p>
 
 ###
